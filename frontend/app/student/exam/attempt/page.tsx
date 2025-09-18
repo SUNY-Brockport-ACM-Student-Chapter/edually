@@ -20,7 +20,7 @@ const ExamAttempt: React.FC = () => {
         <div style={{ display: "flex", gap: "20px", marginTop: "20px" }}>
           <QuestionList />
           <div style={{ flex: 1 }}>
-            <ExamQuestion />
+            <ExamQuestion questionNum={1} question="Sample exam question" />
             <PrevNext />
           </div>
         </div>

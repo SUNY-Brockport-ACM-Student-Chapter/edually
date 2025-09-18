@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import "./component-style.css";
 import ExamSlide from "./DashboardCourseCard";
 
