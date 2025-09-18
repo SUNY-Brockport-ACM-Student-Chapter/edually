@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://yourdocs.com
+    about: Please check the documentation first
+  - name: 💬 Discussions
+    url: https://github.com/yourrepo/discussions
+    about: For general questions, use Discussions instead of Issues

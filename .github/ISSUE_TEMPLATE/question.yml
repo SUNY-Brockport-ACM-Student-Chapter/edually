@@ -1,0 +1,13 @@
+name: Question
+description: Ask a question about the project
+title: "[QUESTION] "
+labels: [question]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Question
+      description: What’s your question?
+      placeholder: Ex. How do I set up this project on Windows?
+    validations:
+      required: true
